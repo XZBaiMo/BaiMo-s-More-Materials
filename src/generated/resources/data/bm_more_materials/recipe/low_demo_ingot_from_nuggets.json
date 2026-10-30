@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    },
+    {
+      "item": "bm_more_materials:low_demo_nugget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bm_more_materials:low_demo_ingot"
+  }
+}

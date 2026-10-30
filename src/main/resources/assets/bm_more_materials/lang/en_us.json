@@ -1,0 +1,57 @@
+{
+  "itemGroup.bm_more_materials.items": "BMM Items",
+  "itemGroup.bm_more_materials.blocks": "BMM Blocks",
+  "itemGroup.bm_more_materials.demo": "BMM Demo Materials",
+
+  "item.bm_more_materials.dawn_star": "Dawn Star",
+  "item.bm_more_materials.dawn_star_shard": "Dawn Star Shard",
+  "item.bm_more_materials.unbreakable_dawn_star": "Unbreakable Dawn Star",
+  "item.bm_more_materials.unbreakable_dawn_star_shard": "Unbreakable Dawn Star Shard",
+  "item.bm_more_materials.primordial_dawn_star": "Primordial Dawn Star",
+  "item.bm_more_materials.primordial_dawn_star_shard": "Primordial Dawn Star Shard",
+
+  "item.bm_more_materials.star_shimmer_ingot": "Star Shimmer Ingot",
+  "item.bm_more_materials.star_shimmer_nugget": "Star Shimmer Nugget",
+  "item.bm_more_materials.moon_glow_ingot": "Moon Glow Ingot",
+  "item.bm_more_materials.moon_glow_nugget": "Moon Glow Nugget",
+  "item.bm_more_materials.sun_corona_ingot": "Sun Corona Ingot",
+  "item.bm_more_materials.sun_corona_nugget": "Sun Corona Nugget",
+
+  "item.bm_more_materials.allthemodium_alloy_ingot": "ATM Alloy Ingot",
+  "item.bm_more_materials.amber_crystal": "Amber Crystal",
+  "item.bm_more_materials.obsidian_crystal": "Obsidian Crystal",
+  "item.bm_more_materials.certus_ingot": "Certus Infused Ingot",
+  "item.bm_more_materials.fluix_ingot": "Fluix Infused Ingot",
+  "item.bm_more_materials.time_crystal_ingot": "Time Crystal Infused Ingot",
+  "item.bm_more_materials.paradox_time_crystal": "Paradox Time Crystal",
+  "item.bm_more_materials.paradox_time_crystal_ingot": "Paradox Time Crystal Infused Ingot",
+  "item.bm_more_materials.dragon_gobber_ingot": "Dragon Gobber Ingot",
+  "item.bm_more_materials.oritech_data_terminal": "Oritech Data Terminal",
+  "item.bm_more_materials.evil_chaos_shard": "Evil Chaos Crystal",
+  "item.bm_more_materials.empty_sekai_nightcode": "Empty Sekai Nightcode",
+
+  "item.bm_more_materials.low_demo_ingot": "Low-Tier Demo Ingot",
+  "item.bm_more_materials.low_demo_nugget": "Low-Tier Demo Nugget",
+  "item.bm_more_materials.mid_demo_ingot": "Mid-Tier Demo Ingot",
+  "item.bm_more_materials.mid_demo_nugget": "Mid-Tier Demo Nugget",
+  "item.bm_more_materials.high_demo_ingot": "High-Tier Demo Ingot",
+  "item.bm_more_materials.high_demo_nugget": "High-Tier Demo Nugget",
+
+  "block.bm_more_materials.star_shimmer_block": "Block of Star Shimmer",
+  "block.bm_more_materials.moon_glow_block": "Block of Moon Glow",
+  "block.bm_more_materials.sun_corona_block": "Block of Sun Corona",
+  "block.bm_more_materials.low_demo_block": "Block of Low-Tier Demo",
+  "block.bm_more_materials.mid_demo_block": "Block of Mid-Tier Demo",
+  "block.bm_more_materials.high_demo_block": "Block of High-Tier Demo",
+  "item.bm_more_materials.ultimate_demo_ingot": "Ultimate Demo Ingot",
+  "item.bm_more_materials.ultimate_demo_nugget": "Ultimate Demo Nugget",
+  "block.bm_more_materials.ultimate_demo_block": "Block of Ultimate Demo",
+
+  "item.bm_more_materials.infinite_gray_ingot": "Infinite Gray",
+  "item.bm_more_materials.infinite_gray_nugget": "Infinite Gray Nugget",
+  "block.bm_more_materials.infinite_gray_block": "Block of Infinite Gray",
+
+  "item.bm_more_materials.endless_chroma_ingot": "Endless Chroma",
+  "item.bm_more_materials.endless_chroma_nugget": "Endless Chroma Nugget",
+  "block.bm_more_materials.endless_chroma_block": "Block of Endless Chroma"
+}

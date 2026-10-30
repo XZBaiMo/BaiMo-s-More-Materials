@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bm_more_materials:endless_chroma_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "bm_more_materials:endless_chroma_nugget"
+  }
+}

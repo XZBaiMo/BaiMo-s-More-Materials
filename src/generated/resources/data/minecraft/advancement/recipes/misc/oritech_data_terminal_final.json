@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_oritech3": {
+      "conditions": {
+        "items": [
+          {
+            "items": "bm_more_materials:oritech_data_terminal4"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:oritech_data_terminal_final"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_oritech3"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:oritech_data_terminal_final"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bm_more_materials:item/oritech_data_terminal1"
+  }
+}

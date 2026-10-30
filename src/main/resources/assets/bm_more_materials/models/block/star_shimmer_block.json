@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bm_more_materials:block/star_shimmer_block"
+  }
+}

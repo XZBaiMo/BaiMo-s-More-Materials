@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "bm_more_materials:oritech_data_terminal2"
+    },
+    "I": {
+      "item": "bm_more_materials:mid_demo_ingot"
+    },
+    "N": {
+      "item": "bm_more_materials:mid_demo_nugget"
+    }
+  },
+  "pattern": [
+    "NIN",
+    "ICI",
+    "NIN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bm_more_materials:oritech_data_terminal3"
+  }
+}

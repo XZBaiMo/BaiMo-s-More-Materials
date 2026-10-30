@@ -1,0 +1,57 @@
+{
+  "itemGroup.bm_more_materials.items": "BMM物品",
+  "itemGroup.bm_more_materials.blocks": "BMM方块",
+  "itemGroup.bm_more_materials.demo": "BMM演示材料",
+
+  "item.bm_more_materials.dawn_star": "黎明之星",
+  "item.bm_more_materials.dawn_star_shard": "黎明之星碎片",
+  "item.bm_more_materials.unbreakable_dawn_star": "永恒黎明之星",
+  "item.bm_more_materials.unbreakable_dawn_star_shard": "永恒黎明之星碎片",
+  "item.bm_more_materials.primordial_dawn_star": "原初黎明之星",
+  "item.bm_more_materials.primordial_dawn_star_shard": "原初黎明之星碎片",
+
+  "item.bm_more_materials.star_shimmer_ingot": "星烁锭",
+  "item.bm_more_materials.star_shimmer_nugget": "星烁粒",
+  "item.bm_more_materials.moon_glow_ingot": "月耀锭",
+  "item.bm_more_materials.moon_glow_nugget": "月耀粒",
+  "item.bm_more_materials.sun_corona_ingot": "日冕锭",
+  "item.bm_more_materials.sun_corona_nugget": "日冕粒",
+
+  "item.bm_more_materials.allthemodium_alloy_ingot": "ATM合金锭",
+  "item.bm_more_materials.amber_crystal": "琥珀结晶",
+  "item.bm_more_materials.obsidian_crystal": "黑曜石结晶",
+  "item.bm_more_materials.certus_ingot": "赛特斯注入锭",
+  "item.bm_more_materials.fluix_ingot": "福鲁伊克斯注入锭",
+  "item.bm_more_materials.time_crystal_ingot": "时间水晶注入锭",
+  "item.bm_more_materials.paradox_time_crystal": "悖论时间水晶",
+  "item.bm_more_materials.paradox_time_crystal_ingot": "悖论时间水晶注入锭",
+  "item.bm_more_materials.dragon_gobber_ingot": "龙之戈伯锭",
+  "item.bm_more_materials.oritech_data_terminal": "奥瑞数据终端",
+  "item.bm_more_materials.evil_chaos_shard": "邪恶混沌水晶",
+  "item.bm_more_materials.empty_sekai_nightcode": "无人世界的'夜码'",
+
+  "item.bm_more_materials.low_demo_ingot": "低级演示锭",
+  "item.bm_more_materials.low_demo_nugget": "低级演示粒",
+  "item.bm_more_materials.mid_demo_ingot": "中级演示锭",
+  "item.bm_more_materials.mid_demo_nugget": "中级演示粒",
+  "item.bm_more_materials.high_demo_ingot": "高级演示锭",
+  "item.bm_more_materials.high_demo_nugget": "高级演示粒",
+
+  "block.bm_more_materials.star_shimmer_block": "星烁块",
+  "block.bm_more_materials.moon_glow_block": "月耀块",
+  "block.bm_more_materials.sun_corona_block": "日冕块",
+  "block.bm_more_materials.low_demo_block": "低级演示块",
+  "block.bm_more_materials.mid_demo_block": "中级演示块",
+  "block.bm_more_materials.high_demo_block": "高级演示块",
+  "item.bm_more_materials.ultimate_demo_ingot": "终极演示锭",
+  "item.bm_more_materials.ultimate_demo_nugget": "终极演示粒",
+  "block.bm_more_materials.ultimate_demo_block": "终极演示块",
+
+  "item.bm_more_materials.infinite_gray_ingot": "无限灰",
+  "item.bm_more_materials.infinite_gray_nugget": "无限灰粒",
+  "block.bm_more_materials.infinite_gray_block": "无限灰块",
+
+  "item.bm_more_materials.endless_chroma_ingot": "无尽彩",
+  "item.bm_more_materials.endless_chroma_nugget": "无尽彩粒",
+  "block.bm_more_materials.endless_chroma_block": "无尽彩块"
+}
